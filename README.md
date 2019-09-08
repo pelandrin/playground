@@ -1,4 +1,4 @@
-DS1
+ds1
 Interpretable AI
 AM207
 # Playground
